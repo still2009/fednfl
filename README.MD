@@ -1,9 +1,11 @@
-# 🛡️ Codebase for Privacy-Preserving Federated Learning (FedNFL)
+# 🛡️ Codebase for No-Free-Launch Privacy-Preserving Federated Learning (FedNFL)
 
 This repository contains the code for our paper:
 
 **“Theoretically Principled Federated Learning for Balancing Privacy and Utility”**  
 [arXiv:2305.15148](https://arxiv.org/abs/2305.15148)
+
+
 
 ---
 
@@ -54,6 +56,7 @@ python experiments.py --config raw_dp --gpu 0,1,2,3 --nproc 10
 ```
 
 *notice: paths and directoies with the code should be manualy changed to ur own*
+
 ---
 
 ## 🔗 Citation
